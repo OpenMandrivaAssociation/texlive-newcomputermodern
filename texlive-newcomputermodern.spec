@@ -1,6 +1,6 @@
 Name:		texlive-newcomputermodern
 Version:	61310
-Release:	1
+Release:	2
 Summary:	Computer Modern fonts including matching non-latin alphabets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newcomputermodern
