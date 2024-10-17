@@ -3,7 +3,7 @@ Version:	61310
 Release:	2
 Summary:	Computer Modern fonts including matching non-latin alphabets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newcomputermodern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newcomputermodern
 License:	gfl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newcomputermodern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newcomputermodern.doc.r%{version}.tar.xz
